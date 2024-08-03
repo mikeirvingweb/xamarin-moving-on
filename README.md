@@ -17,7 +17,7 @@ Presentation repo for my Xamarin: Moving On talks
 📱 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)  
 ⬆️ [.NET Upgrade Assistant](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.upgradeassistant)  
 
-**for Xamarin.Native Apps**
+**for Xamarin.Native Apps**  
 ⬆️ [Upgrade Xamarin.Android, Xamarin.iOS, and Xamarin.Mac projects to .NET](https://learn.microsoft.com/en-gb/dotnet/maui/migration/native-projects)  
 
 **Visual Studio for Mac (formerly Xamarin Studio)**  
