@@ -1,6 +1,8 @@
 # Xamarin: Moving On  
 Presentation repo for my Xamarin: Moving On talks  
 
+![Xamarin: Moving On](xamarin-moving-on.jpg)
+
 ## Forthcoming Talks
 📅 Aug 5th 2024 - **NSManchester** - [Website](https://www.meetup.com/nsmanchester/events/301980488/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-16-Mike-Irving-Intro-to-AI.pptx)  
 
