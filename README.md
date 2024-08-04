@@ -4,7 +4,7 @@ Presentation repo for my Xamarin: Moving On talks
 ![Xamarin: Moving On](xamarin-moving-on.jpg)
 
 ## Forthcoming Talks
-📅 Aug 5th 2024 - **NSManchester** - [Website](https://www.meetup.com/nsmanchester/events/301980488/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-16-Mike-Irving-Intro-to-AI.pptx)  
+📅 Aug 5th 2024 - **NSManchester** - [Website](https://www.meetup.com/nsmanchester/events/301980488/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2024-08-05-Mike-Irving-Xamarin-Moving-On.pptx)  
 
 📅 Sep 11th 2024 - **Birmingham .NET & MAUI User Group** - [Website](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508) - to be released  
 
