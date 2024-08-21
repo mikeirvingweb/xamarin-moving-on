@@ -12,24 +12,24 @@ Presentation repo for my Xamarin: Moving On talks
 ### Links from presentation  
 
 🪦 [Microsoft: Xamarin - End of Life](https://dotnet.microsoft.com/en-us/apps/xamarin)  
-⬆️ [Microsoft Learn: Upgrade from Xamarin to .NET](https://learn.microsoft.com/en-gb/dotnet/maui/migration/)  
 🆘 [Microsoft: Xamarin Support Policy](https://dotnet.microsoft.com/en-us/platform/support/policy/xamarin)  
-
-📱 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)  
+⬆️ [Microsoft Learn: Upgrade from Xamarin to .NET](https://learn.microsoft.com/en-gb/dotnet/maui/migration/?WT.mc_id=MVP_307078)  
+⬆️ [Microsoft Learn: Upgrade Xamarin.Android, Xamarin.iOS, and Xamarin.Mac projects to .NET](https://learn.microsoft.com/en-gb/dotnet/maui/migration/native-projects?view=net-maui-8.0&WT.mc_id=MVP_307078)  
 ⬆️ [.NET Upgrade Assistant](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.upgradeassistant)  
 
-**for Xamarin.Native Apps**  
-⬆️ [Upgrade Xamarin.Android, Xamarin.iOS, and Xamarin.Mac projects to .NET](https://learn.microsoft.com/en-gb/dotnet/maui/migration/native-projects)  
-
 **Visual Studio for Mac (formerly Xamarin Studio)**  
-🪦 [vsMac - End of Life](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/)  
-🧑‍💻 [Visual Studio Code](https://code.visualstudio.com/)  
+🪦 [vsMac - End of Life](https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/?WT.mc_id=MVP_307078)  
+🧑‍💻 [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=MVP_307078)  
 🧠 [JetBrains Rider](https://www.jetbrains.com/rider/)  
 
 **Visual Studio App Center (formerly HockeyApp)**  
 ⚙️ [Visual Studio App Center](https://appcenter.ms/)  
-☁️ [Azure DevOps](https://azure.microsoft.com/en-gb/products/devops)  
+☁️ [Azure DevOps](https://azure.microsoft.com/en-gb/products/devops?WT.mc_id=MVP_307078)  
 🦑 [GitHub Actions](https://docs.github.com/en/actions)  
+
+**.NET MAUI**  
+📱 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)  
+🐵 [Microsoft Learn: .NET MAUI Training](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/?WT.mc_id=MVP_307078)  
 
 **C# Alternatives**  
 🧩 [Uno Platform](https://platform.uno/)  
