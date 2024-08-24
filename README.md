@@ -4,7 +4,7 @@ Presentation repo for my Xamarin: Moving On talks
 ![Xamarin: Moving On](xamarin-moving-on.jpg)
 
 ## Forthcoming Talks
-📅 Aug 29th 2024 - **.NET South West** - TBC    
+📅 Aug 29th 2024 - **.NET South West** -  - [Website](https://www.meetup.com/dotnetsouthwest/events/302996387/) - [Slides - coming soon]    
 📅 Sep 11th 2024 - **Birmingham .NET & MAUI User Group** - [Website](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508) - [Slides - coming soon]  
 
 ## Past Talks  
