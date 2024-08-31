@@ -48,6 +48,7 @@ Presentation repo for my Xamarin: Moving On talks
 
 **Other links**  
 🦍 [Mono Project](https://www.mono-project.com/)  
+🍷 [Scott Hanselman - Mono Project donated to Wine](https://x.com/shanselman/status/1828864622553960509)  
 
 ---
 For more info, find / contact me at:  
