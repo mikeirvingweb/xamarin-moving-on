@@ -4,7 +4,7 @@ Presentation repo for my Xamarin: Moving On talks
 ![Xamarin: Moving On](xamarin-moving-on.jpg)
 
 ## Forthcoming Talks
-📅 Nov 12th 2024 - **Dot NET Liverpool** - [Website](https://www.meetup.com/dot-net-liverpool/events/302954625/) - [Slides - link to follow]  
+📅 Nov 12th 2024 - **Dot NET Liverpool** - [Website](https://www.meetup.com/dot-net-liverpool/events/302954625/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2024-11-12-Mike-Irving-Xamarin-Moving-On.pptx)  
 
 ## Past Talks  
 📅 Sep 11th 2024 - **Birmingham .NET & MAUI User Group** - [Website](https://www.meetup.com/birmingham-dotnet-and-xamarin-user-group/events/301176508) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2024-09-11-Mike-Irving-Xamarin-Moving-On.pptx)  
