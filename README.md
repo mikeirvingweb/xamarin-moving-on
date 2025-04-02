@@ -35,6 +35,7 @@ Presentation repo for my Xamarin: Moving On talks
 ⚙️ [Visual Studio App Center](https://appcenter.ms/)  
 ☁️ [Azure DevOps](https://azure.microsoft.com/en-gb/products/devops?WT.mc_id=MVP_307078)  
 🦑 [GitHub Actions](https://docs.github.com/en/actions)  
+🗒️ [Microsoft Learn: Visual Studio App Center Retirement](https://learn.microsoft.com/en-us/appcenter/retirement?WT.mc_id=MVP_307078)  
 
 **.NET MAUI**  
 📱 [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)  
