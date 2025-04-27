@@ -13,11 +13,15 @@ Presentation repo for my Xamarin: Moving On talks
 📅 Aug 29th 2024 - **.NET South West** - [Website](https://www.meetup.com/dotnetsouthwest/events/302996387/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2024-08-29-Mike-Irving-Xamarin-Moving-On.pptx)  
 📅 Aug 5th 2024 - **NSManchester** - [Website](https://www.meetup.com/nsmanchester/events/301980488/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2024-08-05-Mike-Irving-Xamarin-Moving-On.pptx)  
 
-## Recorded Version
+## Recorded Versions  
+
+🍿 From Apr 10th 2025 @ **Leeds Mobile** - [YouTube](https://www.youtube.com/watch?v=HOVmmkAPnmU)  
+
+[![Leeds Mobile: Xamarin - Moving On](xamarin-moving-on-leeds-mobile-youtube.jpg)](https://www.youtube.com/watch?v=HOVmmkAPnmU)
 
 🍿 From Nov 12th 2024 @ **Dot NET Liverpool** - [YouTube](https://www.youtube.com/watch?v=hHh3Xr45RYw&t=132s)  
 
-[![Dot NET Liverpool: Xamarin - Moving On](xamarin-moving-on-youtube.jpg)](https://www.youtube.com/watch?v=hHh3Xr45RYw&t=132s)
+[![Dot NET Liverpool: Xamarin - Moving On](xamarin-moving-on-dot-net-liverpool-youtube.jpg)](https://www.youtube.com/watch?v=hHh3Xr45RYw&t=132s)
 
 ### Links from presentation  
 
