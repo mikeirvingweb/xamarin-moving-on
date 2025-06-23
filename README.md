@@ -4,7 +4,7 @@ Presentation repo for my Xamarin: Moving On talks
 ![Xamarin: Moving On](xamarin-moving-on.jpg)
 
 ## Forthcoming Talks
-⏰ To be announced  
+📅 Jun 24th 2025 - **Dot Net North** - [Website](https://www.meetup.com/dotnetnorth/events/307584630/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2025-06-24-Mike-Irving-Xamarin-Moving-On.pptx)  
 
 ## Past Talks  
 📅 Apr 10th 2025 - **Leeds Mobile** - [Website](https://www.meetup.com/leeds-mobile/events/306708871/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/xamarin-moving-on/2025-04-10-Mike-Irving-Xamarin-Moving-On.pptx)  
