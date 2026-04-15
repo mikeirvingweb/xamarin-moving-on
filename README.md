@@ -1,6 +1,20 @@
 # Xamarin: Moving On  
 Presentation repo for my Xamarin: Moving On talks  
 
+**Talk Description:**  
+
+A look at how Xamarin evolved, the different things that ‘Xamarin’ came to mean (Native Apps, Class Libraries, much later Xamarin.Forms.. but also Xamarin Studio, plus tooling like HockeyApp / App Center and more) ..  
+
+- advantages of the Xamarin avenues, but also pitfalls and problems.  
+
+- where to turn now on each of those paths (not necessarily a case of ‘choose .NET MAUI’):  
+
+Native Apps in C#, but also a look at Swift and Kotlin, discussing advantages of either approach  
+
+And for Cross Platform: .NET MAUI, Uno Platform, Avalonia UI, or non-C# offerings.  
+
+IDE choices, and replacements for tooling like App Center  
+
 ![Xamarin: Moving On](xamarin-moving-on.jpg)
 
 ## Forthcoming Talks
